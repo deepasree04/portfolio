@@ -33,7 +33,7 @@ export const Resume = () => {
 
         {/* Download Button Row */}
         <div className="w-full flex justify-end">
-          <a href="/resume.pdf" download="Deepasree_Resume.pdf">
+          <a href={`${import.meta.env.BASE_URL}resume.pdf`} download="Deepasree_Resume.pdf">
             <Button variant="glow" className="flex items-center gap-2">
               <Download className="w-4 h-4" />
               Download PDF Resume
