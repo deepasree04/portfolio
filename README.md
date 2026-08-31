@@ -41,18 +41,6 @@ AI-powered career guidance platform built using:
 ### Expense Tracker
 A full-stack expense management application with authentication, REST APIs, analytics, and CSV import.
 
-## 📸 Preview
-
-_Add screenshots of your portfolio here._
-
-## ⚙️ Run Locally
-
-```bash
-git clone https://github.com/deepasree04/portfolio.git
-cd portfolio
-npm install
-npm run dev
-```
 
 ## 📬 Contact
 
